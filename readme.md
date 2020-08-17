@@ -1,3 +1,8 @@
+<h1> Google Store Locator </h1>
+<h2> Using google maps API built a website which identifies the store
+location of a given dataset of the city .</h2>
+
+
 # Plan Of Action
 
 - Import Google Maps into the Window   DONE
